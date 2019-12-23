@@ -4155,6 +4155,26 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c87b63af72f9345658b535ff96117e63, type: 2}
+    - target: {fileID: 145606616174017427, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: beeb7d1fbc8054ec384efdfcd23d58c2, type: 2}
+    - target: {fileID: 145606616174017427, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 145606616174017427, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 145606616174017427, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -1308081535364784380, guid: 4ead083b6feae314cb95276e35134616,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
