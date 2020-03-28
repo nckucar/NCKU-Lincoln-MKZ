@@ -4557,6 +4557,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c87b63af72f9345658b535ff96117e63, type: 2}
+    - target: {fileID: 2530269641265269692, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2437913030391461495, guid: 4ead083b6feae314cb95276e35134616,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4832,11 +4837,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c87b63af72f9345658b535ff96117e63, type: 2}
+    - target: {fileID: 5667170201704656002, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6023622823460114171, guid: 4ead083b6feae314cb95276e35134616,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c87b63af72f9345658b535ff96117e63, type: 2}
+    - target: {fileID: 6023622823460114171, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -3286974177297348203, guid: 4ead083b6feae314cb95276e35134616,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -4937,6 +4952,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c87b63af72f9345658b535ff96117e63, type: 2}
+    - target: {fileID: 7021116921632836253, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7443749254676286531, guid: 4ead083b6feae314cb95276e35134616,
         type: 3}
       propertyPath: m_LightProbeUsage
@@ -5017,6 +5037,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c87b63af72f9345658b535ff96117e63, type: 2}
+    - target: {fileID: -1292567770628848684, guid: 4ead083b6feae314cb95276e35134616,
+        type: 3}
+      propertyPath: m_MotionVectors
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: -1308081535364784380, guid: 4ead083b6feae314cb95276e35134616,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
