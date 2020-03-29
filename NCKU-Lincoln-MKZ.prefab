@@ -5611,6 +5611,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: MeshForCollider
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: ededb9b0d87436e4dbab90d3a2589891,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2382803068354355535, guid: ededb9b0d87436e4dbab90d3a2589891,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: ededb9b0d87436e4dbab90d3a2589891,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5665,6 +5675,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8227367881249894929, guid: ededb9b0d87436e4dbab90d3a2589891,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -1060406416373219488, guid: ededb9b0d87436e4dbab90d3a2589891,
         type: 3}
